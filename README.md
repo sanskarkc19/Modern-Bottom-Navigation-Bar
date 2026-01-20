@@ -17,3 +17,7 @@ The design is minimal, smooth, and perfect for **mobile apps or web app dashboar
 - Frontend Practice Projects
 
 📌 Feel free to fork, star ⭐, and use this design in your projects.
+
+## 🌐 Live Demo
+
+👉 https://username.github.io/repo-name/
